@@ -4,3 +4,6 @@ alper karaca git tekrar
 yeni güncelleme yapıldı 
 
 tekrardan yeni güncelleme yapıldı
+
+
+feature de yeni yaptığım değişiklikler
